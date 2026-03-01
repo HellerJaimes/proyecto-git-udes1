@@ -6,5 +6,9 @@ PROGRAMA INGENIERÍA DE SOFTWARE Semestre A-2026
 Página 6 de 14
 Este repositorio fue creado como parte del taller de Control de Versiones
 de la asignatura Herramientas de Ingeniería de Software - 2026A.
+
+Tecnologias usadas:
+HTML
+GIT
 ## Integrantes
 - [HellerJaimes]
