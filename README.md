@@ -12,3 +12,5 @@ HTML
 GIT
 ## Integrantes
 - [HellerJaimes]
+## Estado del Proyecto
+Proyecto en desarrollo activo - Version 1.0
