@@ -13,4 +13,8 @@ GIT
 ## Integrantes
 - [HellerJaimes]
 ## Estado del Proyecto
+<<<<<<< HEAD
 En construccion - Taller de Git UDES 2026
+=======
+Proyecto en desarrollo activo - Version 1.0
+>>>>>>> 3916bfdd09df3ce1df46a3c4adca8bfc9544aaed
