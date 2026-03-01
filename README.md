@@ -12,3 +12,5 @@ HTML
 GIT
 ## Integrantes
 - [HellerJaimes]
+## Estado del Proyecto
+En construccion - Taller de Git UDES 2026
